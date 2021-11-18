@@ -55,24 +55,8 @@ body {
 }
 
 .tab a.is-active {
-  background: #5131a9;
+  background: #0c89a8bb;
   color: #eee;
-}
-
-.address-bar {
-  background: #5533b3;
-  padding: 8px;
-}
-
-.address-bar input {
-  background: #3a2081;
-  color: #eee;
-  border-radius: 20px;
-  border: none;
-  outline: none;
-  width: 100%;
-  padding: 8px 20px;
-  font-size: 18px;
 }
 
 .viewport {
@@ -97,6 +81,6 @@ body {
   border-radius: 50%;
   opacity: 0.6;
   transition: 0.3s ease all;
-  background: radial-gradient(#0ca86cbb, rgba(115, 200, 236, 0));
+  background: radial-gradient(#c3f6ff9d, rgba(115, 200, 236, 0));
   pointer-events: none;
 }
