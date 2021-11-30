@@ -3,6 +3,8 @@
 ### Description
 Simple browser tabs built with ReactJs.
 
+[View Live](https://misspee007.github.io/highlight-browser-tabs/)
+
 ##### Features
 - Routing with React Router version 6.
 - JavaScript events: Using mouse movement to highlight tabs.   
